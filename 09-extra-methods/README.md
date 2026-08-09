@@ -12,4 +12,11 @@ This directory contains reference guides for essential algebraic techniques, pol
 
 ---
 
+## Useful videos
+* [trigonometric identity ultimate precalculus tutorial](https://youtu.be/crlbRkEZAdw?si=y7LgWx6_O8xoM0p-)
+* []()
+* []()
+
+---
+
 [⬅️ Back to Main README](../README.md)
