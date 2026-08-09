@@ -12,7 +12,7 @@ This directory contains reference guides for essential algebraic techniques, pol
 
 ---
 
-## Useful videos I used
+## Useful videos I used (It's a lot... i know)
 >[!TIP]
 >>>"Note that the most important video are flagged like this"
 
@@ -65,12 +65,47 @@ This directory contains reference guides for essential algebraic techniques, pol
 >### Ruffini
 >* [RUFFINI'S METHOD || A Different Method For Polynomial Division](https://youtu.be/7RuqIiFcvco?si=pk5Y2f3YUSHLewBm)
 
->* []()
->* []()
->* []()
->* []()
->* []()
+>### ANGLE THEOREMS
+>* [ANGLE THEOREMS - Top 10 Must Know](https://www.youtube.com/watch?v=Bq1QyT-HZrU)
 
+>### Trig
+>* [Trig Visualized: One Diagram to Rule them All (six trig functions in one diagram)](https://youtu.be/dUkCgTOOpQ0?si=e3MZ-_iiGxr9zEMq)
+
+>### (Sum of degre) + (Law of Sine)
+>* [Can this actually be calculated? Unknown length of a regular hexagon! Reddit r/theydidthemath](https://youtu.be/9CkMvH-CIp0?si=vlzwp9CLFwzVvqZt)
+
+>### Integrals
+>>* [Integrali impropri : introduzione e primi esempi](https://www.youtube.com/watch?v=dsl0p4RfQY8)
+>>* [Integrali Impropri : risolvere i casi più complessi =)](https://youtu.be/FYAyNLzXYKk?si=41Uv0PPOhk7WAb5_)
+>>* [Integrali Impropri - Criteri di Convergenza](https://www.youtube.com/watch?v=fG59hUtFsV8)
+>* [Integrale trigonometrico - esercizio](https://youtu.be/vncMxsvop20?si=YACEKOLo4vfZHc88)
+>* [Integration Using Arctan function](https://youtu.be/FUz5qEWUMIY?si=nRRzNJm37n4pbf70)
+>* [Integrale](https://youtube.com/playlist?list=PLN2B6ZNu6xmea8CPcqJN-wmSONhf7GOAa&si=ZsuuMtzkjSHzWmnR)
+>* [Calculus: Integration (Problem Solved)](https://youtu.be/sZeMP-wDX0k?si=wJs6-9IH3CjDB_pb)
+>* [Integrals](https://youtube.com/playlist?list=PLN2B6ZNu6xmdjskJv1udeELylfN-0Muqh&si=oEpWFN8HisENcA-A) - extra
+>* [U-Substitution](https://youtube.com/playlist?list=PLql0qQWQbo6lpc73Lwrrq0RoOLESvTN-A&si=TLbLHQadkumeFETO)
+>* [Solve doubt pls! Integral of 1/(x+x^8) but no partial fraction decomposition. Reddit r/calculus](https://youtu.be/oACmoJRPu2E?si=Fv52ynaoSQI-Xstt)
+>* [Integrali di derivate di Funzioni Composte : Primitive Elementari Generalizzate](https://youtu.be/zoc6GBaBdhM?si=DZ6czYVXiwibZdqV)
+>* [Integrale difficile con sostituzione particolare .Quale sarà il cambio di variabile più idoneo ?](https://youtu.be/HYa8BQiNTxM?si=VVP_RPs_lU-LqMkJ)
+>* [Integrali indefiniti tratti dai compiti d'esame (analisi matematica 1)](https://youtu.be/FBHpJDsRJi0?si=ZwcXAks5DCZwsZ-i)
+
+>### Power Serie
+>>* [Simple Guide to Series Convergence Tests](https://youtu.be/Y9JctArSAQw?si=Uuo_Sa-CNVJ-3hV1)
+>* [Solving my Calc 2 Exam#3 (Series & Power Series)](https://www.youtube.com/live/Wv4tnCrnTSA?si=h7IHgacYjOESpdJ-)
+>* [My Calculus 2 Exam#3 Solution (sequence & series)](https://www.youtube.com/watch?v=SHKxUNs42Eo&list=PLj7p5OoL6vGwvyQApdoA8ituzQ4cqNvD5&index=14)
+>* [100 series convergence tests (no food, no water, no stop)](https://youtu.be/jTuTEcwvkP4?si=ap7ryMDbgvc57jn-)
+>* [Calculus, Sect 11.2, Series (Geometric, Telescoping & Harmonic)](https://youtube.com/playlist?list=PLj7p5OoL6vGz-gRFC-mBH8zfU2l19pqSX&si=Js4GrCzewWfSxCqd)
+
+>### ODEs
+>* [First Order Linear Differential Equation & Integrating Factor (introduction & example)](https://youtu.be/DJsjZ5aYK_g?si=3pOgFr92U0brHdsG)
+>* [Differential Equations: 1st order linear (Nagle Sect2.3)](https://youtube.com/playlist?list=PLj7p5OoL6vGwe4MSETi11Sa73CPD1JoCI&si=JCbmLD4JTUNNxWu6)
+>* Missing a video for "similarity solution theorem"
+>* [a very interesting differential equation](https://youtu.be/tr7NZ71LFKA?si=ncF50W6eMe-kVJAn)
+>* [Problemi di Cauchy .Esistenza e unicità in piccolo. Esercizi](https://www.youtube.com/watch?v=a9kyZuChRsM)
+>* [Learning First Order Linear DE in 30 Minutes!](https://www.youtube.com/watch?v=DJSc4Q906cg)
+
+>### Feynman's trick
+>* []() - super extra and not required but useful to see once.
 ---
 
 [⬅️ Back to Main README](../README.md)
