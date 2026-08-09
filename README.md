@@ -67,7 +67,7 @@
 * First-order separable and linear ODEs
 * Second-order linear ODEs with constant coefficients
 
-### 9. [Useful Algebraic Methods & Extra Tools](./09-extra-methods/)
+### 9. [Useful Algebraic Methods & Extra Tools & Links](./09-extra-methods/)
 * **Polynomial Factorization:** Ruffini's synthetic division, quadratic factoring, completing the square
 * **Algebraic Tricks:** Conjugate rationalization, strategic $+1/-1$ terms
 * **Prerequisites:** Trigonometric identities, logarithm/exponential rules, inequalities
