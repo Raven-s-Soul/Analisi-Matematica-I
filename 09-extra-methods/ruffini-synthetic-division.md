@@ -21,3 +21,11 @@ To factor $P(x) = x^3 - 4x^2 + x + 6$:
 4. **Perform synthetic steps:**
    * Drop the first coefficient ($1$).
    * Multiply by $r=2$ and add to the next coefficient.
+
+The resulting quotient polynomial is $Q(x) = x^2 - 2x - 3$.
+
+Thus, $x^3 - 4x^2 + x + 6 = (x - 2)(x^2 - 2x - 3) = (x - 2)(x - 3)(x + 1)$.
+
+---
+
+[⬅️ Back to Extra Methods](./) | [⬅️ Back to Main README](../README.md)
