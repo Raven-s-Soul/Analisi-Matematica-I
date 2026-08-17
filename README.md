@@ -9,7 +9,7 @@
 ## 🗺️ Course Index & Navigation
 
 * [01. Foundations & Preliminaries](./01-foundations/) — Sets, real numbers, bounds (sup/inf), induction, and functions.
-* [02. Sequences of Real Numbers](./02-sequences/) — Limits of sequences, convergence tests, and growth rates.
+* [02. Pre-Calculus, Trigonometry & Sequences](./02-sequences/) — Limits of sequences, convergence tests, and growth rates.
 * [03. Limits of Functions & Continuity](./03-limits-and-continuity/) — $\varepsilon - \delta$ definition, notable limits, and continuity theorems.
 * [04. Differential Calculus](./04-differential-calculus/) — Derivatives, core theorems, curve sketching, and Taylor expansions.
 * [05. Integral Calculus](./05-integral-calculus/) — Indefinite/definite integration techniques, FTC, and improper integrals.
