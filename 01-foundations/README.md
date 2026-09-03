@@ -16,6 +16,9 @@ This directory covers the foundational mathematical logic, axiomatic structures 
 
 ---
 
+>#### Change of sign
+> $A \geq B = -A \leq -B \quad \to \quad A > B = -A < -B$
+
 ## 1. Axiomatic Structure of Real Numbers
 
 The real number system $\mathbb{R}$ is defined as a **complete ordered field**.
